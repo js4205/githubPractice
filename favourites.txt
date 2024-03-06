@@ -2,3 +2,8 @@ fav foods
 -pizza
 -shawarma
 -zero coke
+
+fav movies
+-barbie
+-파묘
+-topgun maverick
